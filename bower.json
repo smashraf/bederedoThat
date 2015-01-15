@@ -1,0 +1,9 @@
+{
+  "name": "OYO Website",
+  "version": "1.0.0",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.1"
+  }
+}
